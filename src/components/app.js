@@ -7,7 +7,7 @@ class App extends React.Component {
     
     state = { 
         images: [],
-        apiKey: '25364198-21471297a8a5495f4a71ad11a'
+        apiKey: 'YOUR API KEY'
     }
 
     onSearchSubmit = async (entry) => {
